@@ -9,7 +9,7 @@
 <meta name = "Module 4 Graded Quiz">
 
 
-<a href="https://github.com/iamvikramkumar"><img src="https://img.shields.io/github/followers/iamvikramkumar?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
+<a href="https://github.com/Mekin-jema"><img src="https://img.shields.io/github/followers/iamvikramkumar?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/iamvikramkumar-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_.svg?cache=remove>)
 
 <!-- <a href="https://github.com/iamvikramkumar"><img height=40 src="https://github.com/iamvikramkumar/ibm_machine_learning_coursera/assets/89016145/e4e85ee6-a6cf-4aad-98ce-4423964fe564" alt="GitHub Followers" /></a> --> 
@@ -18,10 +18,10 @@
 **Course Link:** [IBM Machine Learning](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
 
- # Here, I've generously shared the answers to the Quiz, and if you've found them helpful or valuable, you have the option to express your support and make a thoughtful contribution through this link: [Click Here](https://www.buymeacoffee.com/iamvikramkumar5). 
+ # Here, I've generously shared the answers to the Quiz, and if you've found them helpful or valuable, you have the option to express your support and make a thoughtful contribution through this link: [Click Here](https://github.com/Mekin-jema). 
 Your support, is a vital encouragement that fuels my passion for creating and sharing valuable content. It's greatly appreciated!
 
-![download](https://github.com/iamvikramkumar/ibm_machine_learning/assets/89016145/0f4980ad-1434-47c1-8e0c-4c56a31444f3)
+![download](https://github.com/Mekin-jema/Coursera_ML_with_IBMs.git)
 
 
 <div align="center">
@@ -33,6 +33,6 @@ Your support, is a vital encouragement that fuels my passion for creating and sh
 ### Feel Free To Fork And Report If You Find Any Issue :)
 
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/iamvikramkumar?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/iamvikramkumar)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Mekin-jema?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/Mekin-jema)
 </div>
